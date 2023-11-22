@@ -1,4 +1,4 @@
-### Введение в Data Science и Machine Learning
+## Введение в Data Science и Machine Learning
 
 Установка и запуск Jupyter Notebook
 
